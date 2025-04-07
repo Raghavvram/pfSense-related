@@ -38,4 +38,4 @@ The **Diagnostics** menu in pfSense is a toolbox packed with features to help mo
 
 19. **Wi-Fi Status**: If Wi-Fi is enabled, view wireless network status and connected devices.
 
-Each of these tools is crucial for maintaining, troubleshooting, or optimizing your pfSense system. Let me know if you'd like help with a specific diagnostic feature!
+Each of these tools is crucial for maintaining, troubleshooting, or optimizing your pfSense system.
