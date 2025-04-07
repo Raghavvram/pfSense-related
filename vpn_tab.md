@@ -1,4 +1,4 @@
-The **VPN** menu in pfSense is where you manage all virtual private network configurations and settings. Here's a detailed breakdown of its options:
+The **VPN** menu in pfSense is where you manage all virtual private network configurations and settings.
 
 1. **IPsec**: Configure and manage IPsec VPN tunnels, including phase 1 and phase 2 settings for secure site-to-site or client-to-site connections.
 
