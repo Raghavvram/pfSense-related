@@ -1,4 +1,4 @@
-The **Status** menu in pfSense provides a comprehensive overview of the system's components and services. Here's a breakdown of the key options:
+The **Status** menu in pfSense provides a comprehensive overview of the system's components and services.
 
 1. **Dashboard**: Displays general system information, including CPU usage, memory, and network statistics.
 2. **Interfaces**: Shows the status of each network interface, including connection status, IP addresses, and traffic statistics.
@@ -19,4 +19,4 @@ The **Status** menu in pfSense provides a comprehensive overview of the system's
 17. **UPnP & NAT-PMP**: Lists active UPnP port forwards, if enabled.
 18. **Wireless**: Displays available wireless networks and signal levels (if a wireless interface is present).
 
-Each of these options is designed to give you detailed insights into the performance and status of your pfSense system. If you'd like to dive deeper into any specific option, let me know!
+Each of these options is designed to give you detailed insights into the performance and status of your pfSense system. 
