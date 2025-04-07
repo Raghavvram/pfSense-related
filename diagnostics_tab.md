@@ -1,4 +1,4 @@
-Certainly! The **Diagnostics** menu in pfSense is a toolbox packed with features to help monitor, troubleshoot, and manage your system. Here's a detailed breakdown of its options:
+The **Diagnostics** menu in pfSense is a toolbox packed with features to help monitor, troubleshoot, and manage your system. Here's a detailed breakdown of its options:
 
 1. **Command Prompt**: Execute shell commands directly from the pfSense web interface for quick diagnostics or administrative tasks.
 
