@@ -20,4 +20,4 @@ The **Interfaces** menu in pfSense allows you to manage and monitor the network 
 
 10. **Groups**: Create and manage groups of interfaces to simplify configuration and monitoring.
 
-Each option under the **Interfaces** menu provides powerful tools for tailoring your network setup to suit your specific needs. If you want more detailed guidance on any particular configuration, let me know—I’d be glad to help!
+Each option under the **Interfaces** menu provides powerful tools for tailoring your network setup to suit your specific needs.
