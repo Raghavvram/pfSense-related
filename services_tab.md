@@ -1,4 +1,4 @@
-Certainly! The **Services** menu in pfSense is where you manage various services and their configurations.
+The **Services** menu in pfSense is where you manage various services and their configurations.
 
 1. **DHCP Server**: Configure and manage DHCP settings for each network interface.
 2. **DHCPv6 Server**: Similar to DHCP Server, but for IPv6 networks.
