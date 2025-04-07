@@ -34,4 +34,4 @@ The **System** menu in pfSense is your go-to place for managing system settings,
 
 17. **Shutdown**: Safely shut down the system.
 
-These options allow you to fine-tune and control virtually every aspect of your pfSense system. If you'd like a detailed explanation of how to configure or use any of these features, I’m happy to guide you through it!
+These options allow you to fine-tune and control virtually every aspect of your pfSense system. 
