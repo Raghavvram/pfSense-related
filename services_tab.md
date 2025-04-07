@@ -1,4 +1,4 @@
-Certainly! The **Services** menu in pfSense is where you manage various services and their configurations. Here's an overview of all the options:
+Certainly! The **Services** menu in pfSense is where you manage various services and their configurations.
 
 1. **DHCP Server**: Configure and manage DHCP settings for each network interface.
 2. **DHCPv6 Server**: Similar to DHCP Server, but for IPv6 networks.
@@ -19,4 +19,4 @@ Certainly! The **Services** menu in pfSense is where you manage various services
 17. **Firewall Aliases**: Manage aliases for hosts, networks, ports, and URLs used in firewall rules.
 18. **RADIUS**: Set up and configure RADIUS authentication servers.
 
-Each option in the **Services** menu provides powerful tools to set up and manage your network infrastructure efficiently. If you'd like an in-depth explanation or guidance on configuring any specific service, let me know!
+Each option in the **Services** menu provides powerful tools to set up and manage your network infrastructure efficiently.
