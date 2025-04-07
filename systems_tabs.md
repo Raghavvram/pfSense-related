@@ -1,4 +1,4 @@
-Absolutely! The **System** menu in pfSense is your go-to place for managing system settings, updates, and diagnostics. Here's a detailed breakdown of the options:
+The **System** menu in pfSense is your go-to place for managing system settings, updates, and diagnostics.
 
 1. **Information**: Displays system details like platform, version, and memory usage.
 
