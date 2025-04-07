@@ -1,4 +1,4 @@
-Certainly! The **Firewall** menu in pfSense is where you configure and manage firewall rules and settings to control traffic flow and security. Here's a breakdown of its options:
+The **Firewall** menu in pfSense is where you configure and manage firewall rules and settings to control traffic flow and security. Here's a breakdown of its options:
 
 1. **Rules**: Create and manage firewall rules for each interface (e.g., WAN, LAN, VLANs). This is the core of controlling network traffic.
 
