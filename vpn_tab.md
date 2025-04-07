@@ -12,4 +12,4 @@ The **VPN** menu in pfSense is where you manage all virtual private network conf
 
 6. **Client Export Utility**: Export OpenVPN client configuration files, making it easier for remote users to connect.
 
-Each of these options provides the tools you need to set up secure, reliable VPN connections for different use cases, from remote access to interconnecting networks. If you'd like a detailed explanation of any specific VPN type or how to configure it, feel free to ask!
+Each of these options provides the tools you need to set up secure, reliable VPN connections for different use cases, from remote access to interconnecting networks.
