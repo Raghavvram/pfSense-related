@@ -13,4 +13,4 @@ The **Firewall** menu in pfSense is where you configure and manage firewall rule
 
 7. **Scrub**: Configure advanced packet scrubbing settings, such as reassembly of fragmented packets for security purposes.
 
-Each option under the **Firewall** menu provides tools to customize and secure your network effectively. If you'd like detailed instructions or examples for configuring any of these features, just let me know!
+Each option under the **Firewall** menu provides tools to customize and secure your network effectively.
