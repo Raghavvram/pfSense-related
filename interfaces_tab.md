@@ -1,4 +1,4 @@
-Certainly! The **Interfaces** menu in pfSense allows you to manage and monitor the network interfaces of your system. Here's an explanation of all its options:
+The **Interfaces** menu in pfSense allows you to manage and monitor the network interfaces of your system.
 
 1. **Assignments**: Manage interface assignments for physical and virtual network interfaces. You can assign WAN, LAN, and other interfaces here.
 
